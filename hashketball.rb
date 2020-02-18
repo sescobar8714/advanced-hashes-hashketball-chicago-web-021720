@@ -138,3 +138,8 @@ my_player[:points]
 
 #binding.pry
 end
+
+def shoe_size 
+
+
+end 
